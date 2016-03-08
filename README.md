@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Deprecated
 ==========
 
@@ -36,3 +37,8 @@ Next Steps
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
 # learning-chef
+=======
+# DevOpsGhostHub
+Repository for DevOps Labs and practice dev work
+>>>>>>> 7f9daf72ce987f48b648133c4bfaa7da61049b35
+# ChefConnect
